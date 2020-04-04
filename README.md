@@ -9,7 +9,7 @@ Read 2   | [link]
 Read 3   | [link]
 Read 4   | [link](https://sarahmalash.github.io/reading-notes1/read4)
 Read 5   | [link]
-Read 6   | [link]
+Read 6   | [link](https://sarahmalash.github.io/reading-notes1/read6)
 Read 7   | [linl]
 Read 8   | [link]
 Read 9   | [link]
