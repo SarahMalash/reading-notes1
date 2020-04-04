@@ -4,7 +4,7 @@
 
 Read Num | Read Link
 ---------|----------
-Read 1   | [link]
+Read 1   | [link](https://sarahmalash.github.io/reading-notes1/read1)
 Read 2   | [link]
 Read 3   | [link]
 Read 4   | [link](https://sarahmalash.github.io/reading-notes1/read4)
